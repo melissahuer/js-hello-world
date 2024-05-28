@@ -30,5 +30,3 @@ Modify your code on line 7 to try to accomplish the tasks listed below:
    9. Other. You choose!
 */
 
-git config --global user.email "mhuerta217@gmail.com"
-git config --global user.name "melissahuer"
