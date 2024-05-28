@@ -4,7 +4,16 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello World!");
+console.log("Hello LaunchCode!");//1. 
+console.log("Hello World!");//2. Removing parenthesis gives syntax error: Unexpected string 
+console.log('Hello World!');//3. gives error without one of quotations. Need to include both. No difference 
+console.log("Hello World!")//4. Does print without the semicolon 
+console.log(3);//5. 
+console.log("Hello my name is Melissa\nHello Launchcode");//6.
+console.log("Hello my name is Melissa. This is my first code.");//7. 
+console.log('My favorite movie is "Finding" Nemo');//8.
+console.log("My favorite number is" + 3);//9.
 
 /*  
 Next, PLAY! 
@@ -20,3 +29,6 @@ Modify your code on line 7 to try to accomplish the tasks listed below:
    8. Print a message that contains quote marks, such as Quoth the Raven "Nevermore".
    9. Other. You choose!
 */
+
+git config --global user.email "mhuerta217@gmail.com"
+git config --global user.name "melissahuer"
